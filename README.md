@@ -1,3 +1,4 @@
 # javascript-quiz
 
-## Added To my javascript quiz
+## Finished my Javascript quiz
+
